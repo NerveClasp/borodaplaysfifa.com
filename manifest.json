@@ -1,0 +1,7 @@
+{
+  "name": "borodaplaysfifa-com",
+  "short_name": "borodaplaysfifa-com",
+  "description": "My website",
+  "start_url": "/",
+  "display": "standalone"
+}

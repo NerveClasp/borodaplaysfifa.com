@@ -1,0 +1,19 @@
+{
+  "name": "borodaplaysfifa.com",
+  "version": "1.0.0",
+  "description": "The code for my website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerveClasp/borodaplaysfifa.com.git"
+  },
+  "author": "Roman Horokhov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NerveClasp/borodaplaysfifa.com/issues"
+  },
+  "homepage": "https://github.com/NerveClasp/borodaplaysfifa.com#readme"
+}
